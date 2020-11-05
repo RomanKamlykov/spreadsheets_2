@@ -1,0 +1,6 @@
+[build]
+  # functions folder 
+  functions = "functions"
+  # build folder
+  publish = "src"
+  command = "#"
