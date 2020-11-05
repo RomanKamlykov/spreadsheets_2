@@ -1,8 +1,8 @@
 const { React, ReactDOM, axios } = window;
 const { useState, useEffect } = React;
 
-const url = 'http://localhost:8888/.netlify/functions/getData';
-// const url = '/.netlify/functions/getData';
+// const url = 'http://localhost:8888/.netlify/functions/getData';
+const url = '/.netlify/functions/getData';
 
 function App() {
   // data
